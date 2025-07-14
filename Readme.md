@@ -1,0 +1,2 @@
+## Git Practicsing
+HELLO THIS IS MY FIRST COMMIT 
